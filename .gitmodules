@@ -1,3 +1,0 @@
-[submodule "data2"]
-	path = data2
-	url = https://huggingface.co/datasets/HuggingFaceH4/hhh_alignment
